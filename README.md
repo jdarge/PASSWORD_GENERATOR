@@ -1,6 +1,6 @@
 # PASSWORD_GENERATOR
 
-**Version 1.0.0**
+**Version 0.0.1**
 
 #### Password Generator Tool
 
