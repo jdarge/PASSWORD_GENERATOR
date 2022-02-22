@@ -1,4 +1,4 @@
-# Inventory Manger GUI
+# PASSWORD_GENERATOR
 
 **Version 1.0.0**
 
