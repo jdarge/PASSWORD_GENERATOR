@@ -28,7 +28,3 @@
 * When creating a personalized rules.json file, feel free to kit ```ENTER``` for letters you do not wish to manipulate.
 * The rules.json file must be in the directory path.
 * If you do not wish to create an ID token, you can enter a non-integer value i.e.```skip``` and it will create a value based on your home path.
-
-
-## License & Copyright ##
-#### Copyright 2021 Jan Darge
